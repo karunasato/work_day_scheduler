@@ -1,6 +1,6 @@
 $(document).ready(function(){
    const hours = [
-    "9AM", "10AM", "11AM", "12PM", "1PM", "2PM", "3PM", "4PM", "5PM",
+    "9AM", "10AM", "11AM", "12PM", "1PM", "2PM", "3PM", "4PM", "5PM"
 ];
 const date = new Date();
 const hour = date.getHours();
